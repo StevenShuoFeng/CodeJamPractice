@@ -23,14 +23,14 @@ int main() {
         // trying to make 3x7 board, last block only need to check 1 column
         rs = vector<int>{2};
         cs = vector<int>{2, 5, 6};
-        colForLastRow = 1; // +1 --> +1
+        colForLastRow = 1; // +1 --> +1 for column 7
     }
     else if (A == 200)
     {
         // trying to make 12x17 board, last block only need to check 2 column
         rs = vector<int>{2, 5, 8, 11};
         cs = vector<int>{2, 5, 8, 11, 14, 16};
-        colForLastRow = 0; // 0 --> +1
+        colForLastRow = 0; // 0 --> +1 for column 16, 17
     }
     else
     {
@@ -48,7 +48,7 @@ int main() {
             set<pair<int, int>> tasks;
             int strInd = (ic == cs.back()) ? colForLastRow : -1; // last column, less tasks
 
-            // row -1 --> +1, col -1 --> +1 if not right most block
+            // row -1 --> +1. And col -1 --> +1 if not right most block
             for (int i = -1; i <= 1; ++i)
                 for (int j = strInd; j <= 1; ++j)
                     tasks.insert({ir+i, ic+j});
