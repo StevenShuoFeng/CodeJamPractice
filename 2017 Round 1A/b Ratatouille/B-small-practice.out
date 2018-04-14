@@ -1,0 +1,1178 @@
+0-th ingradient ref 500:
+[#0 Amount 900 nServing 2]
+1-th ingradient ref 300:
+[#0 Amount 660 nServing 2]
+Case #1:
+1
+0-th ingradient ref 500:
+[#0 Amount 1500 nServing 3]
+1-th ingradient ref 300:
+[#0 Amount 809 nServing 0]
+Case #2:
+0
+0-th ingradient ref 50:
+[#0 Amount 450 nServing 9]
+[#1 Amount 449 nServing 9]
+1-th ingradient ref 100:
+[#0 Amount 1100 nServing 11]
+[#1 Amount 1101 nServing 11]
+Case #3:
+0
+0-th ingradient ref 500:
+[#0 Amount 300 nServing 0]
+1-th ingradient ref 300:
+[#0 Amount 500 nServing 0]
+Case #4:
+0
+0-th ingradient ref 10:
+[#0 Amount 11 nServing 1]
+[#1 Amount 13 nServing 0]
+[#2 Amount 17 nServing 0]
+[#3 Amount 11 nServing 1]
+[#4 Amount 16 nServing 0]
+[#5 Amount 14 nServing 0]
+[#6 Amount 12 nServing 0]
+[#7 Amount 18 nServing 2]
+Case #5:
+3
+0-th ingradient ref 517632:
+[#0 Amount 366785 nServing 0]
+[#1 Amount 649948 nServing 0]
+[#2 Amount 991141 nServing 2]
+[#3 Amount 694751 nServing 0]
+[#4 Amount 574423 nServing 0]
+[#5 Amount 664998 nServing 0]
+1-th ingradient ref 292555:
+[#0 Amount 683264 nServing 0]
+[#1 Amount 880403 nServing 3]
+[#2 Amount 905253 nServing 3]
+[#3 Amount 822734 nServing 3]
+[#4 Amount 999319 nServing 0]
+[#5 Amount 823518 nServing 3]
+Case #6:
+0
+0-th ingradient ref 10:
+[#0 Amount 10000 nServing 1000]
+[#1 Amount 10678 nServing 1068]
+[#2 Amount 9000 nServing 900]
+[#3 Amount 11000 nServing 1100]
+[#4 Amount 10574 nServing 1057]
+[#5 Amount 10694 nServing 1069]
+[#6 Amount 10000 nServing 1000]
+[#7 Amount 9134 nServing 913]
+Case #7:
+8
+0-th ingradient ref 6:
+[#0 Amount 14406 nServing 2401]
+[#1 Amount 15046 nServing 2508]
+[#2 Amount 13018 nServing 2170]
+[#3 Amount 15840 nServing 2640]
+[#4 Amount 15663 nServing 2611]
+[#5 Amount 12960 nServing 2160]
+Case #8:
+6
+0-th ingradient ref 1:
+[#0 Amount 1500 nServing 1500]
+[#1 Amount 1980 nServing 1980]
+[#2 Amount 1769 nServing 1769]
+[#3 Amount 1300 nServing 1300]
+[#4 Amount 2326 nServing 2326]
+[#5 Amount 196 nServing 196]
+1-th ingradient ref 2:
+[#0 Amount 3240 nServing 1620]
+[#1 Amount 4768 nServing 2384]
+[#2 Amount 3000 nServing 1500]
+[#3 Amount 2600 nServing 1300]
+[#4 Amount 3587 nServing 1794]
+[#5 Amount 391 nServing 196]
+Case #9:
+3
+0-th ingradient ref 5:
+[#0 Amount 9994 nServing 1999]
+1-th ingradient ref 6:
+[#0 Amount 11254 nServing 1876]
+Case #10:
+0
+0-th ingradient ref 8:
+[#0 Amount 11058 nServing 1382]
+[#1 Amount 10831 nServing 1354]
+[#2 Amount 10400 nServing 1300]
+[#3 Amount 9512 nServing 1189]
+Case #11:
+4
+0-th ingradient ref 176273:
+[#0 Amount 993098 nServing 6]
+[#1 Amount 979606 nServing 6]
+[#2 Amount 964771 nServing 5]
+[#3 Amount 362332 nServing 2]
+[#4 Amount 778203 nServing 0]
+[#5 Amount 854110 nServing 5]
+[#6 Amount 951851 nServing 5]
+[#7 Amount 719258 nServing 4]
+1-th ingradient ref 31150:
+[#0 Amount 824852 nServing 26]
+[#1 Amount 614117 nServing 20]
+[#2 Amount 908568 nServing 29]
+[#3 Amount 498219 nServing 16]
+[#4 Amount 921733 nServing 30]
+[#5 Amount 905427 nServing 29]
+[#6 Amount 897550 nServing 29]
+[#7 Amount 610670 nServing 20]
+Case #12:
+0
+0-th ingradient ref 6:
+[#0 Amount 3000 nServing 500]
+[#1 Amount 1159 nServing 193]
+[#2 Amount 1854 nServing 309]
+[#3 Amount 2506 nServing 418]
+[#4 Amount 3240 nServing 540]
+[#5 Amount 4056 nServing 676]
+[#6 Amount 540 nServing 90]
+1-th ingradient ref 5:
+[#0 Amount 1475 nServing 295]
+[#1 Amount 2072 nServing 414]
+[#2 Amount 3301 nServing 660]
+[#3 Amount 550 nServing 110]
+[#4 Amount 3300 nServing 660]
+[#5 Amount 921 nServing 184]
+[#6 Amount 2500 nServing 500]
+Case #13:
+1
+0-th ingradient ref 4:
+[#0 Amount 3375 nServing 844]
+1-th ingradient ref 5:
+[#0 Amount 4307 nServing 861]
+Case #14:
+0
+0-th ingradient ref 3:
+[#0 Amount 24 nServing 8]
+[#1 Amount 33 nServing 11]
+[#2 Amount 11 nServing 4]
+[#3 Amount 23 nServing 8]
+[#4 Amount 15 nServing 5]
+[#5 Amount 3 nServing 1]
+[#6 Amount 15 nServing 5]
+[#7 Amount 13 nServing 4]
+1-th ingradient ref 4:
+[#0 Amount 19 nServing 5]
+[#1 Amount 32 nServing 8]
+[#2 Amount 17 nServing 4]
+[#3 Amount 20 nServing 5]
+[#4 Amount 4 nServing 1]
+[#5 Amount 32 nServing 8]
+[#6 Amount 16 nServing 4]
+[#7 Amount 36 nServing 9]
+Case #15:
+7
+0-th ingradient ref 2:
+[#0 Amount 2 nServing 1]
+[#1 Amount 2 nServing 1]
+[#2 Amount 22 nServing 11]
+[#3 Amount 2 nServing 1]
+[#4 Amount 2 nServing 1]
+[#5 Amount 2 nServing 1]
+[#6 Amount 2 nServing 1]
+[#7 Amount 2 nServing 1]
+1-th ingradient ref 7:
+[#0 Amount 7 nServing 1]
+[#1 Amount 7 nServing 1]
+[#2 Amount 7 nServing 1]
+[#3 Amount 7 nServing 1]
+[#4 Amount 7 nServing 1]
+[#5 Amount 63 nServing 9]
+[#6 Amount 7 nServing 1]
+[#7 Amount 7 nServing 1]
+Case #16:
+7
+0-th ingradient ref 27885:
+[#0 Amount 837287 nServing 30]
+[#1 Amount 404477 nServing 15]
+[#2 Amount 909534 nServing 33]
+[#3 Amount 735651 nServing 26]
+[#4 Amount 581417 nServing 21]
+[#5 Amount 365997 nServing 13]
+[#6 Amount 448063 nServing 16]
+1-th ingradient ref 176948:
+[#0 Amount 643039 nServing 4]
+[#1 Amount 978771 nServing 6]
+[#2 Amount 907072 nServing 5]
+[#3 Amount 305101 nServing 0]
+[#4 Amount 811558 nServing 5]
+[#5 Amount 384388 nServing 2]
+[#6 Amount 540036 nServing 3]
+Case #17:
+0
+0-th ingradient ref 9:
+[#0 Amount 9 nServing 1]
+[#1 Amount 9 nServing 1]
+[#2 Amount 9 nServing 1]
+[#3 Amount 9 nServing 1]
+[#4 Amount 81 nServing 9]
+[#5 Amount 9 nServing 1]
+[#6 Amount 9 nServing 1]
+[#7 Amount 81 nServing 9]
+1-th ingradient ref 8:
+[#0 Amount 8 nServing 1]
+[#1 Amount 8 nServing 1]
+[#2 Amount 88 nServing 11]
+[#3 Amount 8 nServing 1]
+[#4 Amount 8 nServing 1]
+[#5 Amount 8 nServing 1]
+[#6 Amount 8 nServing 1]
+[#7 Amount 88 nServing 11]
+Case #18:
+6
+0-th ingradient ref 2:
+[#0 Amount 2520 nServing 1260]
+[#1 Amount 4284 nServing 2142]
+[#2 Amount 4497 nServing 2249]
+[#3 Amount 1214 nServing 607]
+[#4 Amount 800 nServing 400]
+Case #19:
+5
+0-th ingradient ref 2:
+[#0 Amount 2210 nServing 1105]
+[#1 Amount 2123 nServing 1062]
+[#2 Amount 2442 nServing 1221]
+1-th ingradient ref 6:
+[#0 Amount 5994 nServing 999]
+[#1 Amount 6630 nServing 1105]
+[#2 Amount 6239 nServing 1040]
+Case #20:
+1
+0-th ingradient ref 1:
+[#0 Amount 100 nServing 100]
+[#1 Amount 319 nServing 319]
+[#2 Amount 369 nServing 369]
+[#3 Amount 193 nServing 193]
+[#4 Amount 600 nServing 600]
+[#5 Amount 550 nServing 550]
+Case #21:
+6
+0-th ingradient ref 10:
+[#0 Amount 27450 nServing 2745]
+[#1 Amount 25000 nServing 2500]
+[#2 Amount 23568 nServing 2357]
+[#3 Amount 23269 nServing 2327]
+[#4 Amount 24828 nServing 2483]
+[#5 Amount 24361 nServing 2436]
+[#6 Amount 22500 nServing 2250]
+[#7 Amount 24980 nServing 2498]
+Case #22:
+8
+0-th ingradient ref 10:
+[#0 Amount 4383 nServing 438]
+[#1 Amount 18900 nServing 1890]
+[#2 Amount 19062 nServing 1906]
+[#3 Amount 5000 nServing 500]
+1-th ingradient ref 10:
+[#0 Amount 5000 nServing 500]
+[#1 Amount 4375 nServing 438]
+[#2 Amount 19782 nServing 1978]
+[#3 Amount 23100 nServing 2310]
+Case #23:
+2
+0-th ingradient ref 9:
+[#0 Amount 9900 nServing 1100]
+[#1 Amount 8238 nServing 915]
+[#2 Amount 19237 nServing 2137]
+[#3 Amount 5940 nServing 660]
+1-th ingradient ref 2:
+[#0 Amount 1926 nServing 963]
+[#1 Amount 1080 nServing 540]
+[#2 Amount 2200 nServing 1100]
+[#3 Amount 4108 nServing 2054]
+Case #24:
+1
+0-th ingradient ref 9:
+[#0 Amount 9 nServing 1]
+[#1 Amount 9 nServing 1]
+[#2 Amount 9 nServing 1]
+[#3 Amount 9 nServing 1]
+[#4 Amount 99 nServing 11]
+Case #25:
+5
+0-th ingradient ref 8:
+[#0 Amount 1506 nServing 188]
+[#1 Amount 2321 nServing 290]
+[#2 Amount 3520 nServing 440]
+[#3 Amount 853 nServing 107]
+[#4 Amount 4000 nServing 500]
+Case #26:
+5
+0-th ingradient ref 1:
+[#0 Amount 1 nServing 1]
+[#1 Amount 1 nServing 1]
+1-th ingradient ref 8:
+[#0 Amount 8 nServing 1]
+[#1 Amount 8 nServing 1]
+Case #27:
+2
+0-th ingradient ref 10:
+[#0 Amount 90 nServing 9]
+[#1 Amount 11 nServing 1]
+1-th ingradient ref 4:
+[#0 Amount 44 nServing 11]
+[#1 Amount 4 nServing 1]
+Case #28:
+1
+0-th ingradient ref 1:
+[#0 Amount 276 nServing 276]
+[#1 Amount 548 nServing 548]
+[#2 Amount 440 nServing 440]
+[#3 Amount 97 nServing 97]
+[#4 Amount 200 nServing 200]
+[#5 Amount 537 nServing 537]
+Case #29:
+6
+0-th ingradient ref 10:
+[#0 Amount 5500 nServing 550]
+[#1 Amount 6000 nServing 600]
+[#2 Amount 4171 nServing 417]
+[#3 Amount 7784 nServing 778]
+[#4 Amount 2823 nServing 282]
+[#5 Amount 1000 nServing 100]
+[#6 Amount 7650 nServing 765]
+[#7 Amount 2160 nServing 216]
+1-th ingradient ref 3:
+[#0 Amount 1350 nServing 450]
+[#1 Amount 657 nServing 219]
+[#2 Amount 300 nServing 100]
+[#3 Amount 855 nServing 285]
+[#4 Amount 1131 nServing 377]
+[#5 Amount 1800 nServing 600]
+[#6 Amount 2376 nServing 792]
+[#7 Amount 2310 nServing 770]
+Case #30:
+2
+0-th ingradient ref 10:
+[#0 Amount 110 nServing 11]
+[#1 Amount 63 nServing 6]
+[#2 Amount 18 nServing 2]
+1-th ingradient ref 4:
+[#0 Amount 8 nServing 2]
+[#1 Amount 36 nServing 9]
+[#2 Amount 30 nServing 8]
+Case #31:
+1
+0-th ingradient ref 841618:
+[#0 Amount 188040 nServing 0]
+[#1 Amount 764514 nServing 1]
+[#2 Amount 646890 nServing 0]
+[#3 Amount 993271 nServing 0]
+[#4 Amount 688202 nServing 0]
+[#5 Amount 905155 nServing 1]
+[#6 Amount 567208 nServing 0]
+[#7 Amount 819507 nServing 1]
+1-th ingradient ref 222558:
+[#0 Amount 373832 nServing 0]
+[#1 Amount 788359 nServing 0]
+[#2 Amount 774936 nServing 0]
+[#3 Amount 541276 nServing 0]
+[#4 Amount 732101 nServing 3]
+[#5 Amount 955406 nServing 4]
+[#6 Amount 833431 nServing 4]
+[#7 Amount 986812 nServing 0]
+Case #32:
+0
+0-th ingradient ref 676970:
+[#0 Amount 818143 nServing 0]
+[#1 Amount 854822 nServing 0]
+[#2 Amount 944573 nServing 0]
+[#3 Amount 650559 nServing 1]
+Case #33:
+1
+0-th ingradient ref 4:
+[#0 Amount 2520 nServing 630]
+[#1 Amount 3079 nServing 770]
+[#2 Amount 2697 nServing 674]
+[#3 Amount 2764 nServing 691]
+[#4 Amount 2800 nServing 700]
+[#5 Amount 2800 nServing 700]
+[#6 Amount 2863 nServing 716]
+[#7 Amount 2520 nServing 630]
+1-th ingradient ref 8:
+[#0 Amount 6160 nServing 770]
+[#1 Amount 5600 nServing 700]
+[#2 Amount 6160 nServing 770]
+[#3 Amount 5470 nServing 684]
+[#4 Amount 5600 nServing 700]
+[#5 Amount 5986 nServing 748]
+[#6 Amount 5106 nServing 638]
+[#7 Amount 5965 nServing 746]
+Case #34:
+3
+0-th ingradient ref 8:
+[#0 Amount 13206 nServing 1651]
+[#1 Amount 11976 nServing 1497]
+[#2 Amount 10800 nServing 1350]
+[#3 Amount 11536 nServing 1442]
+[#4 Amount 12955 nServing 1619]
+[#5 Amount 12032 nServing 1504]
+[#6 Amount 12744 nServing 1593]
+[#7 Amount 11247 nServing 1406]
+1-th ingradient ref 2:
+[#0 Amount 3300 nServing 1650]
+[#1 Amount 2994 nServing 1497]
+[#2 Amount 2718 nServing 1359]
+[#3 Amount 3008 nServing 1504]
+[#4 Amount 3213 nServing 1607]
+[#5 Amount 2735 nServing 1368]
+[#6 Amount 2914 nServing 1457]
+[#7 Amount 3195 nServing 1598]
+Case #35:
+2
+0-th ingradient ref 285822:
+[#0 Amount 954448 nServing 0]
+[#1 Amount 367407 nServing 0]
+[#2 Amount 907197 nServing 3]
+[#3 Amount 590147 nServing 2]
+[#4 Amount 101375 nServing 0]
+[#5 Amount 972597 nServing 0]
+[#6 Amount 930565 nServing 3]
+[#7 Amount 807208 nServing 3]
+1-th ingradient ref 4894:
+[#0 Amount 570764 nServing 117]
+[#1 Amount 886632 nServing 181]
+[#2 Amount 988181 nServing 202]
+[#3 Amount 999266 nServing 204]
+[#4 Amount 899380 nServing 184]
+[#5 Amount 740137 nServing 151]
+[#6 Amount 434895 nServing 89]
+[#7 Amount 351746 nServing 72]
+Case #36:
+0
+0-th ingradient ref 1:
+[#0 Amount 1600 nServing 1600]
+[#1 Amount 1617 nServing 1617]
+[#2 Amount 1594 nServing 1594]
+[#3 Amount 1440 nServing 1440]
+[#4 Amount 1488 nServing 1488]
+[#5 Amount 1727 nServing 1727]
+[#6 Amount 1471 nServing 1471]
+1-th ingradient ref 1:
+[#0 Amount 1600 nServing 1600]
+[#1 Amount 1760 nServing 1760]
+[#2 Amount 1564 nServing 1564]
+[#3 Amount 1641 nServing 1641]
+[#4 Amount 1449 nServing 1449]
+[#5 Amount 1757 nServing 1757]
+[#6 Amount 1478 nServing 1478]
+Case #37:
+1
+0-th ingradient ref 10:
+[#0 Amount 3055 nServing 306]
+[#1 Amount 7700 nServing 770]
+[#2 Amount 2200 nServing 220]
+[#3 Amount 13557 nServing 1356]
+[#4 Amount 22748 nServing 2275]
+[#5 Amount 16000 nServing 1600]
+[#6 Amount 8752 nServing 875]
+[#7 Amount 7087 nServing 709]
+1-th ingradient ref 2:
+[#0 Amount 3200 nServing 1600]
+[#1 Amount 1260 nServing 630]
+[#2 Amount 4818 nServing 2409]
+[#3 Amount 1782 nServing 891]
+[#4 Amount 616 nServing 308]
+[#5 Amount 2599 nServing 1300]
+[#6 Amount 360 nServing 180]
+[#7 Amount 1537 nServing 769]
+Case #38:
+1
+0-th ingradient ref 6:
+[#0 Amount 11220 nServing 1870]
+[#1 Amount 12203 nServing 2034]
+1-th ingradient ref 1:
+[#0 Amount 2097 nServing 2097]
+[#1 Amount 1530 nServing 1530]
+Case #39:
+0
+0-th ingradient ref 9:
+[#0 Amount 1800 nServing 200]
+[#1 Amount 11208 nServing 1245]
+[#2 Amount 21759 nServing 2418]
+[#3 Amount 18810 nServing 2090]
+[#4 Amount 964 nServing 107]
+[#5 Amount 9749 nServing 1083]
+[#6 Amount 18000 nServing 2000]
+[#7 Amount 12150 nServing 1350]
+1-th ingradient ref 8:
+[#0 Amount 19650 nServing 2456]
+[#1 Amount 1600 nServing 200]
+[#2 Amount 13680 nServing 1710]
+[#3 Amount 8611 nServing 1076]
+[#4 Amount 860 nServing 108]
+[#5 Amount 16000 nServing 2000]
+[#6 Amount 13200 nServing 1650]
+[#7 Amount 10377 nServing 1297]
+Case #40:
+2
+0-th ingradient ref 4:
+[#0 Amount 8 nServing 2]
+Case #41:
+1
+0-th ingradient ref 9:
+[#0 Amount 4650 nServing 517]
+[#1 Amount 3576 nServing 397]
+[#2 Amount 1980 nServing 220]
+[#3 Amount 900 nServing 100]
+[#4 Amount 2760 nServing 307]
+[#5 Amount 5400 nServing 600]
+Case #42:
+6
+0-th ingradient ref 69495:
+[#0 Amount 896930 nServing 13]
+[#1 Amount 530401 nServing 8]
+Case #43:
+2
+0-th ingradient ref 3:
+[#0 Amount 1300 nServing 433]
+[#1 Amount 810 nServing 270]
+[#2 Amount 1961 nServing 654]
+[#3 Amount 308 nServing 103]
+[#4 Amount 1500 nServing 500]
+[#5 Amount 553 nServing 184]
+1-th ingradient ref 4:
+[#0 Amount 2000 nServing 500]
+[#1 Amount 2516 nServing 629]
+[#2 Amount 409 nServing 102]
+[#3 Amount 1707 nServing 427]
+[#4 Amount 1320 nServing 330]
+[#5 Amount 735 nServing 184]
+Case #44:
+2
+0-th ingradient ref 4:
+[#0 Amount 4 nServing 1]
+[#1 Amount 36 nServing 9]
+[#2 Amount 20 nServing 5]
+[#3 Amount 44 nServing 11]
+[#4 Amount 12 nServing 3]
+[#5 Amount 4 nServing 1]
+[#6 Amount 11 nServing 3]
+[#7 Amount 12 nServing 3]
+1-th ingradient ref 6:
+[#0 Amount 66 nServing 11]
+[#1 Amount 30 nServing 5]
+[#2 Amount 6 nServing 1]
+[#3 Amount 18 nServing 3]
+[#4 Amount 6 nServing 1]
+[#5 Amount 17 nServing 3]
+[#6 Amount 54 nServing 9]
+[#7 Amount 17 nServing 3]
+Case #45:
+8
+0-th ingradient ref 10:
+[#0 Amount 30 nServing 3]
+[#1 Amount 90 nServing 9]
+[#2 Amount 21 nServing 2]
+[#3 Amount 9 nServing 1]
+[#4 Amount 86 nServing 9]
+[#5 Amount 10 nServing 1]
+[#6 Amount 20 nServing 2]
+[#7 Amount 19 nServing 2]
+1-th ingradient ref 9:
+[#0 Amount 9 nServing 1]
+[#1 Amount 9 nServing 1]
+[#2 Amount 18 nServing 2]
+[#3 Amount 19 nServing 2]
+[#4 Amount 27 nServing 3]
+[#5 Amount 99 nServing 11]
+[#6 Amount 18 nServing 2]
+[#7 Amount 66 nServing 7]
+Case #46:
+6
+0-th ingradient ref 7:
+[#0 Amount 7700 nServing 1100]
+1-th ingradient ref 7:
+[#0 Amount 7700 nServing 1100]
+Case #47:
+1
+0-th ingradient ref 7:
+[#0 Amount 2520 nServing 360]
+[#1 Amount 3500 nServing 500]
+[#2 Amount 1318 nServing 188]
+[#3 Amount 760 nServing 109]
+[#4 Amount 4274 nServing 611]
+[#5 Amount 2219 nServing 317]
+1-th ingradient ref 8:
+[#0 Amount 2273 nServing 284]
+[#1 Amount 1476 nServing 185]
+[#2 Amount 5178 nServing 647]
+[#3 Amount 4000 nServing 500]
+[#4 Amount 866 nServing 108]
+[#5 Amount 3520 nServing 440]
+Case #48:
+1
+0-th ingradient ref 9:
+[#0 Amount 3859 nServing 429]
+[#1 Amount 4478 nServing 498]
+[#2 Amount 1620 nServing 180]
+[#3 Amount 900 nServing 100]
+[#4 Amount 2484 nServing 276]
+Case #49:
+5
+0-th ingradient ref 3:
+[#0 Amount 6894 nServing 2298]
+[#1 Amount 7222 nServing 2407]
+Case #50:
+2
+0-th ingradient ref 790233:
+[#0 Amount 802897 nServing 1]
+[#1 Amount 464078 nServing 0]
+[#2 Amount 989375 nServing 0]
+[#3 Amount 952634 nServing 0]
+[#4 Amount 528082 nServing 0]
+[#5 Amount 963168 nServing 0]
+[#6 Amount 850422 nServing 1]
+[#7 Amount 758634 nServing 1]
+1-th ingradient ref 456535:
+[#0 Amount 984387 nServing 2]
+[#1 Amount 994437 nServing 2]
+[#2 Amount 955543 nServing 2]
+[#3 Amount 857607 nServing 2]
+[#4 Amount 776345 nServing 0]
+[#5 Amount 776490 nServing 0]
+[#6 Amount 942026 nServing 2]
+[#7 Amount 578693 nServing 0]
+Case #51:
+0
+0-th ingradient ref 235412:
+[#0 Amount 821398 nServing 0]
+[#1 Amount 890597 nServing 4]
+[#2 Amount 877680 nServing 4]
+[#3 Amount 999864 nServing 4]
+[#4 Amount 675724 nServing 3]
+Case #52:
+4
+0-th ingradient ref 2:
+[#0 Amount 2979 nServing 1490]
+[#1 Amount 3080 nServing 1540]
+[#2 Amount 2795 nServing 1398]
+[#3 Amount 2972 nServing 1486]
+[#4 Amount 2525 nServing 1263]
+[#5 Amount 2792 nServing 1396]
+1-th ingradient ref 9:
+[#0 Amount 11687 nServing 1299]
+[#1 Amount 12333 nServing 1370]
+[#2 Amount 12370 nServing 1374]
+[#3 Amount 13572 nServing 1508]
+[#4 Amount 12564 nServing 1396]
+[#5 Amount 11340 nServing 1260]
+Case #53:
+1
+0-th ingradient ref 6:
+[#0 Amount 3960 nServing 660]
+[#1 Amount 4200 nServing 700]
+[#2 Amount 6286 nServing 1048]
+[#3 Amount 11203 nServing 1867]
+[#4 Amount 13756 nServing 2293]
+[#5 Amount 8063 nServing 1344]
+[#6 Amount 3960 nServing 660]
+[#7 Amount 2889 nServing 482]
+1-th ingradient ref 10:
+[#0 Amount 13895 nServing 1390]
+[#1 Amount 5400 nServing 540]
+[#2 Amount 4781 nServing 478]
+[#3 Amount 22280 nServing 2228]
+[#4 Amount 5400 nServing 540]
+[#5 Amount 10345 nServing 1035]
+[#6 Amount 18515 nServing 1852]
+[#7 Amount 7000 nServing 700]
+Case #54:
+1
+0-th ingradient ref 194060:
+[#0 Amount 982055 nServing 5]
+[#1 Amount 972248 nServing 5]
+[#2 Amount 888242 nServing 5]
+[#3 Amount 669523 nServing 0]
+[#4 Amount 753144 nServing 4]
+[#5 Amount 969180 nServing 5]
+Case #55:
+5
+0-th ingradient ref 130533:
+[#0 Amount 945711 nServing 7]
+[#1 Amount 315159 nServing 0]
+[#2 Amount 929708 nServing 7]
+[#3 Amount 976184 nServing 7]
+[#4 Amount 757459 nServing 6]
+[#5 Amount 810193 nServing 6]
+Case #56:
+5
+0-th ingradient ref 6:
+[#0 Amount 642 nServing 107]
+[#1 Amount 594 nServing 99]
+[#2 Amount 660 nServing 110]
+[#3 Amount 600 nServing 100]
+1-th ingradient ref 1:
+[#0 Amount 94 nServing 94]
+[#1 Amount 90 nServing 90]
+[#2 Amount 101 nServing 101]
+[#3 Amount 94 nServing 94]
+Case #57:
+0
+0-th ingradient ref 5:
+[#0 Amount 9 nServing 2]
+[#1 Amount 5 nServing 1]
+[#2 Amount 55 nServing 11]
+[#3 Amount 16 nServing 3]
+[#4 Amount 28 nServing 6]
+1-th ingradient ref 9:
+[#0 Amount 9 nServing 1]
+[#1 Amount 81 nServing 9]
+[#2 Amount 17 nServing 2]
+[#3 Amount 29 nServing 3]
+[#4 Amount 55 nServing 6]
+Case #58:
+4
+0-th ingradient ref 9:
+[#0 Amount 21787 nServing 2421]
+[#1 Amount 22455 nServing 2495]
+1-th ingradient ref 1:
+[#0 Amount 2495 nServing 2495]
+[#1 Amount 2561 nServing 2561]
+Case #59:
+1
+0-th ingradient ref 10:
+[#0 Amount 1 nServing 0]
+[#1 Amount 2 nServing 0]
+[#2 Amount 6 nServing 0]
+[#3 Amount 5 nServing 0]
+[#4 Amount 8 nServing 0]
+[#5 Amount 7 nServing 0]
+[#6 Amount 4 nServing 0]
+[#7 Amount 3 nServing 0]
+Case #60:
+0
+0-th ingradient ref 5:
+[#0 Amount 502 nServing 100]
+[#1 Amount 605 nServing 121]
+[#2 Amount 514 nServing 103]
+Case #61:
+3
+0-th ingradient ref 10:
+[#0 Amount 58 nServing 6]
+[#1 Amount 71 nServing 7]
+[#2 Amount 69 nServing 7]
+[#3 Amount 110 nServing 11]
+[#4 Amount 30 nServing 3]
+[#5 Amount 87 nServing 9]
+1-th ingradient ref 7:
+[#0 Amount 21 nServing 3]
+[#1 Amount 63 nServing 9]
+[#2 Amount 60 nServing 9]
+[#3 Amount 48 nServing 7]
+[#4 Amount 49 nServing 7]
+[#5 Amount 43 nServing 6]
+Case #62:
+5
+0-th ingradient ref 2:
+[#0 Amount 2662 nServing 1331]
+[#1 Amount 2408 nServing 1204]
+[#2 Amount 2388 nServing 1194]
+[#3 Amount 2408 nServing 1204]
+[#4 Amount 2199 nServing 1100]
+[#5 Amount 2604 nServing 1302]
+[#6 Amount 2611 nServing 1306]
+[#7 Amount 2616 nServing 1308]
+1-th ingradient ref 8:
+[#0 Amount 9632 nServing 1204]
+[#1 Amount 9428 nServing 1179]
+[#2 Amount 8712 nServing 1089]
+[#3 Amount 9386 nServing 1173]
+[#4 Amount 10076 nServing 1260]
+[#5 Amount 8964 nServing 1121]
+[#6 Amount 9632 nServing 1204]
+[#7 Amount 9571 nServing 1196]
+Case #63:
+2
+0-th ingradient ref 475664:
+[#0 Amount 513593 nServing 1]
+[#1 Amount 994322 nServing 2]
+[#2 Amount 62984 nServing 0]
+[#3 Amount 981054 nServing 2]
+[#4 Amount 590591 nServing 0]
+[#5 Amount 446093 nServing 1]
+[#6 Amount 881104 nServing 2]
+Case #64:
+5
+0-th ingradient ref 1000000:
+[#0 Amount 899999 nServing 0]
+[#1 Amount 900001 nServing 1]
+[#2 Amount 900000 nServing 1]
+Case #65:
+2
+0-th ingradient ref 5:
+[#0 Amount 15 nServing 3]
+Case #66:
+1
+0-th ingradient ref 7:
+[#0 Amount 7 nServing 1]
+[#1 Amount 63 nServing 9]
+[#2 Amount 7 nServing 1]
+[#3 Amount 7 nServing 1]
+[#4 Amount 7 nServing 1]
+1-th ingradient ref 1:
+[#0 Amount 1 nServing 1]
+[#1 Amount 1 nServing 1]
+[#2 Amount 11 nServing 11]
+[#3 Amount 1 nServing 1]
+[#4 Amount 1 nServing 1]
+Case #67:
+4
+0-th ingradient ref 9:
+[#0 Amount 5914 nServing 657]
+[#1 Amount 21600 nServing 2400]
+[#2 Amount 14202 nServing 1578]
+[#3 Amount 7484 nServing 832]
+[#4 Amount 2700 nServing 300]
+[#5 Amount 22770 nServing 2530]
+[#6 Amount 2582 nServing 287]
+[#7 Amount 16456 nServing 1828]
+Case #68:
+8
+0-th ingradient ref 518307:
+[#0 Amount 989771 nServing 2]
+[#1 Amount 941601 nServing 2]
+[#2 Amount 813799 nServing 0]
+[#3 Amount 933266 nServing 2]
+[#4 Amount 935729 nServing 2]
+[#5 Amount 995527 nServing 2]
+[#6 Amount 814266 nServing 0]
+[#7 Amount 807855 nServing 0]
+Case #69:
+5
+0-th ingradient ref 4:
+[#0 Amount 400 nServing 100]
+[#1 Amount 720 nServing 180]
+Case #70:
+2
+0-th ingradient ref 7:
+[#0 Amount 15789 nServing 2256]
+[#1 Amount 16835 nServing 2405]
+[#2 Amount 18480 nServing 2640]
+[#3 Amount 15305 nServing 2186]
+[#4 Amount 16800 nServing 2400]
+[#5 Amount 15120 nServing 2160]
+[#6 Amount 18167 nServing 2595]
+1-th ingradient ref 7:
+[#0 Amount 15224 nServing 2175]
+[#1 Amount 16800 nServing 2400]
+[#2 Amount 15120 nServing 2160]
+[#3 Amount 18480 nServing 2640]
+[#4 Amount 17522 nServing 2503]
+[#5 Amount 16835 nServing 2405]
+[#6 Amount 18049 nServing 2578]
+Case #71:
+4
+0-th ingradient ref 10:
+[#0 Amount 18125 nServing 1813]
+[#1 Amount 20000 nServing 2000]
+[#2 Amount 19148 nServing 1915]
+[#3 Amount 22000 nServing 2200]
+[#4 Amount 20000 nServing 2000]
+[#5 Amount 22000 nServing 2200]
+[#6 Amount 21809 nServing 2181]
+[#7 Amount 19025 nServing 1903]
+1-th ingradient ref 10:
+[#0 Amount 18682 nServing 1868]
+[#1 Amount 20000 nServing 2000]
+[#2 Amount 21178 nServing 2118]
+[#3 Amount 20000 nServing 2000]
+[#4 Amount 19258 nServing 1926]
+[#5 Amount 18000 nServing 1800]
+[#6 Amount 19170 nServing 1917]
+[#7 Amount 18000 nServing 1800]
+Case #72:
+2
+0-th ingradient ref 6:
+[#0 Amount 8400 nServing 1400]
+1-th ingradient ref 8:
+[#0 Amount 11200 nServing 1400]
+Case #73:
+1
+0-th ingradient ref 10:
+[#0 Amount 2700 nServing 270]
+[#1 Amount 2779 nServing 278]
+[#2 Amount 10000 nServing 1000]
+[#3 Amount 7619 nServing 762]
+[#4 Amount 7301 nServing 730]
+Case #74:
+5
+0-th ingradient ref 1:
+[#0 Amount 365 nServing 365]
+[#1 Amount 1350 nServing 1350]
+[#2 Amount 105 nServing 105]
+1-th ingradient ref 8:
+[#0 Amount 2996 nServing 375]
+[#1 Amount 854 nServing 107]
+[#2 Amount 13200 nServing 1650]
+Case #75:
+0
+0-th ingradient ref 10:
+[#0 Amount 110 nServing 11]
+[#1 Amount 40 nServing 4]
+[#2 Amount 36 nServing 4]
+[#3 Amount 70 nServing 7]
+[#4 Amount 21 nServing 2]
+[#5 Amount 80 nServing 8]
+[#6 Amount 37 nServing 4]
+1-th ingradient ref 2:
+[#0 Amount 8 nServing 4]
+[#1 Amount 16 nServing 8]
+[#2 Amount 8 nServing 4]
+[#3 Amount 18 nServing 9]
+[#4 Amount 4 nServing 2]
+[#5 Amount 15 nServing 8]
+[#6 Amount 8 nServing 4]
+Case #76:
+5
+0-th ingradient ref 5:
+[#0 Amount 55 nServing 11]
+[#1 Amount 5 nServing 1]
+[#2 Amount 38 nServing 8]
+1-th ingradient ref 3:
+[#0 Amount 24 nServing 8]
+[#1 Amount 3 nServing 1]
+[#2 Amount 27 nServing 9]
+Case #77:
+2
+0-th ingradient ref 6:
+[#0 Amount 2773 nServing 462]
+[#1 Amount 2828 nServing 471]
+[#2 Amount 3030 nServing 505]
+[#3 Amount 3156 nServing 526]
+[#4 Amount 2754 nServing 459]
+Case #78:
+5
+0-th ingradient ref 3:
+[#0 Amount 3659 nServing 1220]
+Case #79:
+1
+0-th ingradient ref 177253:
+[#0 Amount 794250 nServing 0]
+[#1 Amount 947386 nServing 5]
+[#2 Amount 429687 nServing 0]
+[#3 Amount 996251 nServing 6]
+[#4 Amount 497093 nServing 3]
+[#5 Amount 784237 nServing 0]
+[#6 Amount 862488 nServing 5]
+[#7 Amount 787881 nServing 0]
+Case #80:
+4
+0-th ingradient ref 7:
+[#0 Amount 10904 nServing 1558]
+[#1 Amount 9538 nServing 1363]
+[#2 Amount 10500 nServing 1500]
+[#3 Amount 9470 nServing 1353]
+1-th ingradient ref 7:
+[#0 Amount 10500 nServing 1500]
+[#1 Amount 10424 nServing 1489]
+[#2 Amount 10658 nServing 1523]
+[#3 Amount 10725 nServing 1532]
+Case #81:
+1
+0-th ingradient ref 7:
+[#0 Amount 3780 nServing 540]
+[#1 Amount 5041 nServing 720]
+[#2 Amount 1477 nServing 211]
+[#3 Amount 3762 nServing 537]
+[#4 Amount 770 nServing 110]
+[#5 Amount 4670 nServing 667]
+[#6 Amount 1941 nServing 277]
+[#7 Amount 2800 nServing 400]
+Case #82:
+8
+0-th ingradient ref 8:
+[#0 Amount 1650 nServing 206]
+[#1 Amount 1511 nServing 189]
+[#2 Amount 1760 nServing 220]
+[#3 Amount 1600 nServing 200]
+[#4 Amount 1656 nServing 207]
+[#5 Amount 1444 nServing 181]
+[#6 Amount 1727 nServing 216]
+Case #83:
+7
+0-th ingradient ref 2:
+[#0 Amount 5102 nServing 2551]
+Case #84:
+1
+0-th ingradient ref 89943:
+[#0 Amount 955596 nServing 11]
+[#1 Amount 715082 nServing 8]
+[#2 Amount 643791 nServing 7]
+[#3 Amount 941163 nServing 10]
+[#4 Amount 929025 nServing 10]
+[#5 Amount 471611 nServing 5]
+Case #85:
+6
+0-th ingradient ref 4:
+[#0 Amount 12 nServing 3]
+[#1 Amount 8 nServing 2]
+[#2 Amount 20 nServing 5]
+[#3 Amount 4 nServing 1]
+Case #86:
+4
+0-th ingradient ref 6:
+[#0 Amount 11400 nServing 1900]
+[#1 Amount 10762 nServing 1794]
+Case #87:
+2
+0-th ingradient ref 9:
+[#0 Amount 10964 nServing 1218]
+[#1 Amount 12350 nServing 1372]
+[#2 Amount 12870 nServing 1430]
+[#3 Amount 11700 nServing 1300]
+[#4 Amount 12342 nServing 1371]
+[#5 Amount 11700 nServing 1300]
+[#6 Amount 10566 nServing 1174]
+[#7 Amount 10819 nServing 1202]
+1-th ingradient ref 2:
+[#0 Amount 2340 nServing 1170]
+[#1 Amount 2534 nServing 1267]
+[#2 Amount 2600 nServing 1300]
+[#3 Amount 2842 nServing 1421]
+[#4 Amount 2408 nServing 1204]
+[#5 Amount 2600 nServing 1300]
+[#6 Amount 2630 nServing 1315]
+[#7 Amount 2450 nServing 1225]
+Case #88:
+2
+0-th ingradient ref 10:
+[#0 Amount 1866 nServing 187]
+[#1 Amount 2700 nServing 270]
+[#2 Amount 3727 nServing 373]
+[#3 Amount 5389 nServing 539]
+[#4 Amount 6000 nServing 600]
+[#5 Amount 1000 nServing 100]
+[#6 Amount 7200 nServing 720]
+[#7 Amount 7600 nServing 760]
+1-th ingradient ref 3:
+[#0 Amount 990 nServing 330]
+[#1 Amount 2058 nServing 686]
+[#2 Amount 1800 nServing 600]
+[#3 Amount 1622 nServing 541]
+[#4 Amount 1163 nServing 388]
+[#5 Amount 578 nServing 193]
+[#6 Amount 2640 nServing 880]
+[#7 Amount 300 nServing 100]
+Case #89:
+2
+0-th ingradient ref 7:
+[#0 Amount 14562 nServing 2080]
+[#1 Amount 9240 nServing 1320]
+[#2 Amount 9169 nServing 1310]
+[#3 Amount 2938 nServing 420]
+[#4 Amount 6300 nServing 900]
+1-th ingradient ref 4:
+[#0 Amount 5268 nServing 1317]
+[#1 Amount 8026 nServing 2007]
+[#2 Amount 3600 nServing 900]
+[#3 Amount 1747 nServing 437]
+[#4 Amount 4320 nServing 1080]
+Case #90:
+1
+0-th ingradient ref 2:
+[#0 Amount 22 nServing 11]
+[#1 Amount 4 nServing 2]
+[#2 Amount 2 nServing 1]
+Case #91:
+3
+0-th ingradient ref 6:
+[#0 Amount 10674 nServing 1779]
+Case #92:
+1
+0-th ingradient ref 1:
+[#0 Amount 2100 nServing 2100]
+Case #93:
+1
+0-th ingradient ref 1:
+[#0 Amount 90 nServing 90]
+[#1 Amount 180 nServing 180]
+[#2 Amount 328 nServing 328]
+[#3 Amount 400 nServing 400]
+[#4 Amount 482 nServing 482]
+Case #94:
+5
+0-th ingradient ref 8:
+[#0 Amount 5755 nServing 719]
+[#1 Amount 800 nServing 100]
+[#2 Amount 2244 nServing 281]
+[#3 Amount 4800 nServing 600]
+[#4 Amount 2880 nServing 360]
+[#5 Amount 4380 nServing 548]
+[#6 Amount 1568 nServing 196]
+Case #95:
+7
+0-th ingradient ref 3:
+[#0 Amount 15 nServing 5]
+[#1 Amount 27 nServing 9]
+[#2 Amount 22 nServing 7]
+[#3 Amount 3 nServing 1]
+1-th ingradient ref 9:
+[#0 Amount 43 nServing 5]
+[#1 Amount 63 nServing 7]
+[#2 Amount 99 nServing 11]
+[#3 Amount 9 nServing 1]
+Case #96:
+3
+0-th ingradient ref 5:
+[#0 Amount 5 nServing 1]
+[#1 Amount 5 nServing 1]
+[#2 Amount 5 nServing 1]
+[#3 Amount 5 nServing 1]
+[#4 Amount 55 nServing 11]
+1-th ingradient ref 7:
+[#0 Amount 7 nServing 1]
+[#1 Amount 7 nServing 1]
+[#2 Amount 7 nServing 1]
+[#3 Amount 63 nServing 9]
+[#4 Amount 7 nServing 1]
+Case #97:
+4
+0-th ingradient ref 1:
+[#0 Amount 1000000 nServing 1000000]
+[#1 Amount 999999 nServing 999999]
+[#2 Amount 999998 nServing 999998]
+[#3 Amount 999997 nServing 999997]
+[#4 Amount 999996 nServing 999996]
+[#5 Amount 999995 nServing 999995]
+[#6 Amount 999994 nServing 999994]
+[#7 Amount 999993 nServing 999993]
+1-th ingradient ref 1:
+[#0 Amount 999992 nServing 999992]
+[#1 Amount 999991 nServing 999991]
+[#2 Amount 999990 nServing 999990]
+[#3 Amount 999989 nServing 999989]
+[#4 Amount 999988 nServing 999988]
+[#5 Amount 999987 nServing 999987]
+[#6 Amount 999986 nServing 999986]
+[#7 Amount 999985 nServing 999985]
+Case #98:
+0
+0-th ingradient ref 449253:
+[#0 Amount 784506 nServing 0]
+[#1 Amount 810859 nServing 2]
+[#2 Amount 697879 nServing 0]
+[#3 Amount 918789 nServing 2]
+[#4 Amount 837573 nServing 2]
+1-th ingradient ref 111397:
+[#0 Amount 991140 nServing 9]
+[#1 Amount 327297 nServing 3]
+[#2 Amount 417317 nServing 4]
+[#3 Amount 718497 nServing 6]
+[#4 Amount 999761 nServing 9]
+Case #99:
+0
+0-th ingradient ref 3:
+[#0 Amount 2430 nServing 810]
+[#1 Amount 2678 nServing 893]
+[#2 Amount 2504 nServing 835]
+[#3 Amount 2700 nServing 900]
+1-th ingradient ref 4:
+[#0 Amount 3850 nServing 963]
+[#1 Amount 3322 nServing 831]
+[#2 Amount 3960 nServing 990]
+[#3 Amount 3600 nServing 900]
+Case #100:
+1
